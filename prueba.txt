@@ -1,9 +1,1 @@
-resolve
-
-branch
-branch
-
-master
-
-branch 2 
-hola branch
+master 1
